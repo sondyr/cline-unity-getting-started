@@ -1,6 +1,6 @@
 # Getting Started with Cline x Unity
 
-Asked Cline (xClaude) to edit the "HelloWorld.cs" empty script to create a smiley face using cubes in realtime. It made a the face but with a frown, and didn't make the right edits after I asked it to fix it to a smile. Then I shaerd the script with ChatGPT and it fixed the smile immediately. 
+Asked Cline (xClaude) to edit the **HelloWorld.cs** empty script to create a smiley face using cubes in realtime. It made a the face but with a frown, and didn't make the right edits after I asked it to fix it to a smile. Then I shaerd the script with ChatGPT and it fixed the smile immediately. 
 
 **ChatGPT's Response**
 >Your frown is caused by the equation used for the smile curve. Right now, you're using a downward-facing parabola:
